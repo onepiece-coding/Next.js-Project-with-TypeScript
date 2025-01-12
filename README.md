@@ -38,39 +38,43 @@ Follow these steps to set up the project locally on your machine.
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/onepiece-coding/Next.js-Project-with-TypeScript.git
+    ```bash
+     git clone https://github.com/onepiece-coding/Next.js-Project-with-TypeScript.git
+    ```
 
 2. Navigate to the project directory:
 
     ```bash
-     cd Next.js-Project-with-TypeScript
+      cd Next.js-Project-with-TypeScript
+    ```
 
 3. Install dependencies:
 
 Using npm:
 
-    
+      
   ```bash
     npm install
-  ```
     
 Using yarn:
-
-    ```bash
+  
+  ```bash
     yarn install
+  ```
     
 4. Run the development server:
 
 Using npm:
 
-    ```bash
+  ```bash
     npm run dev
+  ```
     
 Using yarn:
 
-    ```bash
+  ```bash
     yarn dev
+  ```
     
 5. Open your browser:
 
