@@ -39,12 +39,12 @@ Follow these steps to set up the project locally on your machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/nextjs-typescript-project.git
+   git clone https://github.com/onepiece-coding/Next.js-Project-with-TypeScript.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd nextjs-typescript-project
+    cd Next.js-Project-with-TypeScript
 
 3. Install dependencies:
 
