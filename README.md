@@ -44,14 +44,16 @@ Follow these steps to set up the project locally on your machine.
 2. Navigate to the project directory:
 
     ```bash
-    cd Next.js-Project-with-TypeScript
+     cd Next.js-Project-with-TypeScript
 
 3. Install dependencies:
 
 Using npm:
 
-    ```bash
+    
+  ```bash
     npm install
+  ```
     
 Using yarn:
 
