@@ -1,0 +1,41 @@
+
+.post {
+    background-color: white;
+    border-radius: 9px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+.post-header {
+    padding: 1.6rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.post-title {
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.4;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.post-body {
+    padding: 1.6rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.post-desc {
+    font-size: 1.4rem;
+    line-height: 1.8;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.post-footer {
+    padding: 2.4rem 1.6rem;
+    text-align: center;
+}

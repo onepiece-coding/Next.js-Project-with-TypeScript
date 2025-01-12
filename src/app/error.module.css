@@ -1,0 +1,53 @@
+
+.error-container {
+    width: 500px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 1.6rem 2.4rem 2.4rem;
+    background-color: snow;
+    border-radius: 11px;
+    text-align: center;
+}
+
+.error-title {
+    margin-bottom: 1rem;
+    font-size: 5.2rem;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+
+@media screen and (max-width: 412px) {
+    .error-title {
+        font-size: 4.8rem;
+    }
+}
+
+.error-sub-title {
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    font-size: 2.4rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: red;
+}
+
+@media screen and (max-width: 412px) {
+    .error-sub-title {
+        font-size: 2rem;
+    }
+}
+
+.error-desc {
+    margin-bottom: 1.6rem;
+    font-size: 1.6rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 1.4;
+}
+
+.error-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
