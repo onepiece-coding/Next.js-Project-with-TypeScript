@@ -97,10 +97,10 @@ Learn how to build this project step-by-step by watching the tutorial on the One
 
 ## Connect with Me
 
-- YouTube: [OnePiece Coding]()
+- YouTube: [OnePiece Coding](https://www.youtube.com/@OnePieceCoding)
 
-- GitHub: [GitHub Profile]()
+- GitHub: [GitHub Profile](https://github.com/onepiece-coding)
 
-- LinkedIn: [LinkedIn Profile]()
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lahcen-alhiane-0799ba303/)
 
 Enjoy the project! If you find it helpful, don't forget to give it a ⭐️ on GitHub and share it with others!
