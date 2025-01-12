@@ -52,9 +52,10 @@ Follow these steps to set up the project locally on your machine.
 
 Using npm:
 
-      
+    
   ```bash
     npm install
+  ```
     
 Using yarn:
   
