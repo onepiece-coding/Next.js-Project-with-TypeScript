@@ -1,37 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Project with TypeScript, Data Fetching, Error Handling, and CSS Modules
+
+This is a **Next.js** project that demonstrates key features such as **TypeScript integration**, **data fetching**, **error handling**, **dynamic routing**, and **CSS Modules**. The project fetches posts from the [JSON Placeholder API](https://jsonplaceholder.typicode.com/) and displays them in a clean, responsive UI. It also includes dynamic routing for individual posts and a custom error page for handling errors gracefully.
+
+This project is part of a tutorial video on the [**OnePiece Coding**](https://www.youtube.com/@OnePieceCoding) YouTube channel. 
+
+📽️ Watch the video to learn how to build this project step-by-step!
+
+---
+
+## Features
+
+- **TypeScript Integration**: The project is built using TypeScript for type safety and better developer experience.
+  
+- **Data Fetching**: Fetches posts from the JSON Placeholder API and renders them on the posts page.
+  
+- **Dynamic Routing**: Implements dynamic routes for individual posts using Next.js's file-based routing system.
+  
+- **Error Handling**: Includes a custom error page to handle errors gracefully.
+  
+- **CSS Modules**: Uses CSS Modules for scoped and modular styling.
+  
+- **Responsive Design**: The UI is fully responsive and works seamlessly on all screen sizes.
+
+---
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to set up the project locally on your machine.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Node.js** (v16 or higher)
+  
+- **npm** or **yarn** (package manager)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Clone the repository:**
 
-## Learn More
+   ```bash
+   git clone https://github.com/your-username/nextjs-typescript-project.git
 
-To learn more about Next.js, take a look at the following resources:
+2. Navigate to the project directory:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    ```bash
+    cd nextjs-typescript-project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. Install dependencies:
 
-## Deploy on Vercel
+Using npm:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    ```bash
+    npm install
+    
+Using yarn:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Next.js-Project-with-TypeScript
+    ```bash
+    yarn install
+    
+4. Run the development server:
+
+Using npm:
+
+    ```bash
+    npm run dev
+    
+Using yarn:
+
+    ```bash
+    yarn dev
+    
+5. Open your browser:
+
+6. Visit http://localhost:3000 to view the project.
+
+## Technologies Used
+
+- Next.js: A React framework for server-side rendering and static site generation.
+
+- TypeScript: Adds static typing to JavaScript for better code quality.
+
+- CSS Modules: Scoped CSS for modular styling.
+
+- JSON Placeholder API: A fake online REST API for testing and prototyping.
+
+## Watch the Tutorial Video
+
+Learn how to build this project step-by-step by watching the tutorial on the OnePiece Coding YouTube channel: [Video Link]()
+
+## Connect with Me
+
+- YouTube: [OnePiece Coding]()
+
+- GitHub: [GitHub Profile]()
+
+- LinkedIn: [LinkedIn Profile]()
+
+Enjoy the project! If you find it helpful, don't forget to give it a ⭐️ on GitHub and share it with others!
