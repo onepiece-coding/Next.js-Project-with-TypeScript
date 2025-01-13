@@ -93,7 +93,7 @@ Using yarn:
 
 ## Watch the Tutorial Video
 
-Learn how to build this project step-by-step by watching the tutorial on the OnePiece Coding YouTube channel: [Video Link]()
+Learn how to build this project step-by-step by watching the tutorial on the OnePiece Coding YouTube channel: [Video Link](https://www.youtube.com/watch?v=kOYF0mSSC6g)
 
 ## Connect with Me
 
