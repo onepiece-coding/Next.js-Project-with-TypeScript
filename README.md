@@ -2,10 +2,6 @@
 
 This is a **Next.js** project that demonstrates key features such as **TypeScript integration**, **data fetching**, **error handling**, **dynamic routing**, and **CSS Modules**. The project fetches posts from the [JSON Placeholder API](https://jsonplaceholder.typicode.com/) and displays them in a clean, responsive UI. It also includes dynamic routing for individual posts and a custom error page for handling errors gracefully.
 
-This project is part of a tutorial video on the [**OnePiece Coding**](https://www.youtube.com/@OnePieceCoding) YouTube channel. 
-
-📽️ Watch the video to learn how to build this project step-by-step!
-
 ---
 
 ## Features
@@ -90,10 +86,6 @@ Using yarn:
 - CSS Modules: Scoped CSS for modular styling.
 
 - JSON Placeholder API: A fake online REST API for testing and prototyping.
-
-## Watch the Tutorial Video
-
-Learn how to build this project step-by-step by watching the tutorial on the OnePiece Coding YouTube channel: [Video Link](https://www.youtube.com/watch?v=kOYF0mSSC6g)
 
 ## Connect with Me
 
